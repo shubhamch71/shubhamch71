@@ -6,6 +6,13 @@
 
 ###
 
+[![An image of @shubhamch71's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamch71)](https://holopin.io/@shubhamch71)
+
+###
+
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
