@@ -4,13 +4,6 @@
 
 <p align="left">My name is Shubham Chaudhari and I'm a recent computer science grad from University of Mumbai. I am looking for full-time oppurtunities  in DevOps♾️, Cloud ☁️, SRE⚙️, Platform Engineering.</p>
 
-<! --- ###
-
-[![An image of @shubhamch71's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamch71)](https://holopin.io/@shubhamch71)
-
-###
---->
-
 ###
 
 <h2 align="left">About me</h2>
