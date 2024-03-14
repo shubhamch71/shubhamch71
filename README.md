@@ -1,3 +1,5 @@
+[![An image of @shubhamch71's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhamch71)](https://holopin.io/@shubhamch71)
+
 <h1 align="left">Hi there 👋, I'm Shubham</h1>
 
 ###
