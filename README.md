@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Shubham Chaudhari and I'm a recent computer science grad from University of Mumbai. I am looking for full-time oppurtunities  in DevOps♾️, Cloud ☁️, SRE⚙️, Platform Engineering.</p>
+<p align="left">My name is Shubham Chaudhari and I'm a recent computer science grad from University of Mumbai. I am looking for full-time oppurtunities  in DevOps♾️, Cloud ☁️, SRE⚙️, Platform Engineering and MLOps.</p>
 
 ###
 
