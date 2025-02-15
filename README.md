@@ -4,17 +4,49 @@
 
 ###
 
-<p align="left">My name is Shubham Chaudhari and I'm a recent computer science grad from University of Mumbai. I am looking for full-time oppurtunities  in DevOps♾️, Cloud ☁️, SRE⚙️, Platform Engineering and MLOps.</p>
+<p align="left">
+
+I'm a **tech enthusiast** navigating the ever-evolving world of **Kubernetes, Cloud-Native architectures, Security, and MLOps**. 🚀  
+
+I thrive on **orchestrating scalable systems, securing cloud workloads, and automating everything** that can be automated. Whether it's **deploying resilient microservices, locking down containerized environments, or optimizing ML pipelines**, I'm always up for a challenge.  
+
+## 🚀 What I Do  
+- 🔹 **Cloud-Native** – Living and breathing containers, Kubernetes, and distributed systems.  
+- 🔹 **Security** – Because a strong system is a secure system.  
+- 🔹 **MLOps** – Bridging the gap between data science and production-grade infrastructure.  
+
+You'll often find me **tinkering with new tools, contributing to open-source projects, and occasionally breaking things—only to fix them better!** 😆  
+
+
+
+## 💡 Let's Connect  
+📌 Open to tech discussions, collaborations, and exchanging ideas.  
+💬 Feel free to ask me about **DevOps♾️, Cloud☁️, Kubernetes, and Security!**  
+📫 How to reach me: <a href="mailto:shubhamchau71@gmail.com">shubhamchau71@gmail.com</a><br>
+🔎View my GitHub Repositories on : https://github.com/shubhamch71</p>
 
 ###
 
-<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ I’m currently working on something cool 😎<br>📚 I'm currently learning Golang, Terraform and Cloud Native <br>💬 Ask me about DevOps♾️ and Cloud☁️<br>📫 How to reach me: <a href="mailto:shubhamchau71@gmail.com">shubhamchau71@gmail.com</a><br>🔎View my GitHub Repositories on : https://github.com/shubhamch71</p>
+## 🏆 Certifications  
+
+[![CKA Certified](https://img.shields.io/badge/Certified-Kubernetes%20Administrator-blue?logo=kubernetes&logoColor=white)](YOUR_CKA_CERTIFICATE_LINK)  
+[![CKAD Certified](https://img.shields.io/badge/Certified-Kubernetes%20Application%20Developer-blue?logo=kubernetes&logoColor=white)](YOUR_CKAD_CERTIFICATE_LINK)  
+[![CKS Certified](https://img.shields.io/badge/Certified-Kubernetes%20Security%20Specialist-blue?logo=kubernetes&logoColor=white)](YOUR_CKS_CERTIFICATE_LINK)  
+[![KubeAstronaut](https://img.shields.io/badge/KubeAstronaut-Kubernetes-326ce5?logo=kubernetes&logoColor=white)](YOUR_KUBEASTRONAUT_CERTIFICATE_LINK)  
+[![Prometheus Certified Associate](https://img.shields.io/badge/Prometheus%20Certified%20Associate-orange?logo=prometheus&logoColor=white)](YOUR_PCA_CERTIFICATE_LINK)  
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?logo=amazonaws&logoColor=white)](YOUR_AWS_CERTIFICATE_LINK)  
+[![Google Cloud Engineer](https://img.shields.io/badge/Google%20Cloud%20Engineer-Associate-4285F4?logo=googlecloud&logoColor=white)](YOUR_GCP_CERTIFICATE_LINK)  
+[![Terraform Associate](https://img.shields.io/badge/Terraform%20Certified%20Associate-623CE4?logo=terraform&logoColor=white)](YOUR_TERRAFORM_CERTIFICATE_LINK)  
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white)](YOUR_SECURITY_PLUS_CERTIFICATE_LINK)  
+
+
 
 ###
+
+
 
 <h2 align="left">Tools and Technologies </h2>
 
